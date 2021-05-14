@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/Ktm2590/newappfree/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="http://www.facebook.com/sharer.php?u=<?php the_permalink();?>&t=<?php the_title(); ?>" title="Partager sur Facebook">Partager sur Facebook</a>
+
 <iframe width="560" height="315" src="https://videopress.com/v/VxYqY86w" frameborder="0" allowfullscreen></iframe>
 
 <script src="https://videopress.com/videopress-iframe.js"></script>
